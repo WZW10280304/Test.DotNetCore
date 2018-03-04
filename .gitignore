@@ -1,0 +1,5 @@
+sqlite3
+/Test.DotNetCore/RabbitMQ.SqlServer.Helper/obj
+/Test.DotNetCore/RabbitMQ.SqlServer.Helper/bin/Debug/netcoreapp2.0
+/Test.DotNetCore/RabbitMQ.SqlServer.IService/bin/Debug/netcoreapp2.0
+obj
